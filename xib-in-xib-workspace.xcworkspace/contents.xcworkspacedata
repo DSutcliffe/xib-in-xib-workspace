@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Core/Core.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:xib-in-xib-workspace/xib-in-xib-workspace.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:VC1/VC1.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:VC2/VC2.xcodeproj">
+   </FileRef>
+</Workspace>
